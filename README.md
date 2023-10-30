@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rodrigo
+# Hi, I'm Rodrigo 👋
 
 I'm an intern in data engineering with a strong passion for data collection and analysis, as well as process automation. I'm currently in my final year of the Electrical Engineering program with a focus on Control and Automation at Poli-USP. I'm also deepening my knowledge in data engineering through the AWS Academy's Data Engineering course.
 
