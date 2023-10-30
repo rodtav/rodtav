@@ -1,27 +1,24 @@
-# Olá 👋, sou o Rodrigo
+# Hi 👋, I'm Rodrigo
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodtav/rodtav/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/rodtav/rodtav/blob/main/README.pt-br.md)
+I'm an intern in data engineering with a strong passion for data collection and analysis, as well as process automation. I'm currently in my final year of the Electrical Engineering program with a focus on Control and Automation at Poli-USP. I'm also deepening my knowledge in data engineering through the AWS Academy's Data Engineering course.
 
-Sou um estagiário em engenharia de dados com um forte interesse em coleta e análise de dados e também em automação de processos. Atualmente, estou no último ano do curso de Engenharia Elétrica com ênfase em Controle e Automação na Poli-USP. Também estou aprofundando meus conhecimentos na área de engenharia de dados por meio do curso de Data Engineering da AWS Academy.
+## My Skills and Experience
 
-## Minhas Habilidades e Experiência
+- **Data Collection**: I have experience in collecting data from various sources, including the web, APIs, and databases.
 
-- **Coleta de Dados**: Tenho experiência em coleta de dados de diversas fontes, incluindo a web, APIs e bancos de dados.
+- **Azure Development**: I develop pipelines and solutions on the Azure platform to efficiently collect, validate, process and store data.
 
-- **Desenvolvimento na Azure**: Desenvolvo pipelines e soluções na plataforma Azure para coletar, validar, processar e armazenar dados de forma eficiente.
+- **Web Scraping in JavaScript**: I use JavaScript to create web scraping scripts and extract data from websites.
 
-- **Web Scraping em JavaScript**: Utilizo JavaScript para criar scripts de web scraping e extrair dados de sites.
+- **Process Automation**: I automate tasks and processes to optimize efficiency.
 
-- **Automatização de Processos**: Tenho afinidade em automatizar tarefas e processos para otimizar a eficiência.
+- **Data Analysis with Python**: I perform exploratory data analysis with Python.
 
-- **Análise de Dados com Python**: Realizo análises exploratórias de dados com Python.
+## My Interest and Passion
 
-## Meu Interesse e Paixão
+I have a strong interest in innovation and applying data engineering technologies to solve real-world problems. I enjoy automating processes to save time and resources, and I believe that data analysis is a powerful tool for making informed decisions.
 
-Tenho um forte interesse em inovação e na aplicação de tecnologias de engenharia de dados para resolver problemas do mundo real. Gosto de automatizar processos para economizar tempo e recursos, e acredito que a análise de dados é uma ferramenta poderosa para a tomada de decisões informadas.
+## Contact
 
-## Contato
-
-- **Email**: rodrigomtav25@gmail.com
-- **LinkedIn**: [in/rodrigomtav](https://www.linkedin.com/in/rodrigomtav/)
+- **Email**: rodrigotav25@gmail.com
+- **LinkedIn**: [in/rodrigomtav](https://www.linkedin.com/in/rodrigomtav/?locale=en_US)
