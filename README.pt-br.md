@@ -7,15 +7,24 @@ Sou um estagiário em engenharia de dados com um forte interesse em coleta e an�
 
 ## Minhas Habilidades e Experiência
 
-- **Coleta de Dados**: Tenho experiência em coleta de dados de diversas fontes, incluindo a web, APIs e bancos de dados.
+-📊 **Coleta de Dados**: Tenho experiência em coleta de dados de diversas fontes, incluindo a web, APIs e bancos de dados.
 
-- **Desenvolvimento na Azure**: Desenvolvo pipelines e soluções na plataforma Azure para coletar, validar, processar e armazenar dados de forma eficiente.
+-☁️ **Desenvolvimento na Azure**: Desenvolvo pipelines e soluções na plataforma Azure para coletar, validar, processar e armazenar dados de forma eficiente.
 
-- **Web Scraping em JavaScript**: Utilizo JavaScript para criar scripts de web scraping e extrair dados de sites.
+-🌐 **Web Scraping em JavaScript**: Utilizo JavaScript para criar scripts de web scraping e extrair dados de sites.
 
-- **Automatização de Processos**: Tenho afinidade em automatizar tarefas e processos para otimizar a eficiência.
+-🤖 **Automatização de Processos**: Tenho afinidade em automatizar tarefas e processos para otimizar a eficiência.
 
-- **Análise de Dados com Python**: Realizo análises exploratórias de dados com Python.
+-🐍 **Análise de Dados com Python**: Realizo análises exploratórias de dados com Python.
+
+<p align="center">
+	<img title="Python" alt="Python" src="img/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="JavaScript" alt="JavaScript" src="img/javascript.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Puppeteer" alt="Puppeteer" src="img/puppeteer.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="img/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+  <img title="Azure" alt="Azure" src="img/azure.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="AWS" alt="AWS" src="img/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/
+</p>
 
 ## Meu Interesse e Paixão
 
