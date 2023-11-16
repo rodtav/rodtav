@@ -1,5 +1,8 @@
 # Hi, I'm Rodrigo 👋
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodtav/rodtav/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/rodtav/rodtav/blob/main/README.pt-br.md)
+
 I'm an intern in data engineering with a strong passion for data collection and analysis, as well as process automation. I'm currently in my final year of the Electrical Engineering program with a focus on Control and Automation at Poli-USP. I'm also deepening my knowledge in data engineering through the AWS Academy's Data Engineering course.
 
 ## My Skills and Experience
