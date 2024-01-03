@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rodtav/rodtav/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/rodtav/rodtav/blob/main/README.pt-br.md)
 
-Sou um estagiário em engenharia de dados com um forte interesse em coleta e análise de dados e também em automação de processos. Atualmente, estou no último ano do curso de Engenharia Elétrica com ênfase em Controle e Automação na Poli-USP. Também estou aprofundando meus conhecimentos na área de engenharia de dados por meio do curso de Data Engineering da AWS Academy.
+Sou um engenheiro de dados com um forte interesse em coleta e análise de dados e também em automação de processos. Recentemente, me formei em Engenharia Elétrica com ênfase em Controle e Automação na Poli-USP. Também estou aprofundando meus conhecimentos na área de engenharia de dados por meio do curso de Data Engineering da AWS Academy.
 
 ## Minhas Habilidades e Experiência
 
